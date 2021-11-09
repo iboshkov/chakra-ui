@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Build Accessible React Apps with Speed ⚡️</h1>
+<h1 align="center">Build Accessible React Apps with Speed - Testing Automation - ⚡️</h1>
 
 <br>
 
